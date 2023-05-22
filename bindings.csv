@@ -1,0 +1,7 @@
+SOURCE TARGET
+git/.gitconfig,~/.gitconfig
+starship/starship.toml,~/.config/starship.toml
+vim/.vimrc,~/.vimrc
+vim/.vimrc,~/.config/nvim/init.vim
+X11/.Xresources,~/.Xresources
+xfce4/terminal/terminalrc,~/.config/xfce4/terminal/terminalrc
