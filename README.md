@@ -4,4 +4,4 @@ This repository contains useful files for my computer like configuration, themin
 
 ## TODOs
 
-- Install fonts (Nerd font DejaVuMono DroidSansMono)
+- Install fonts (Nerd font DejaVuMono DroidSansMono v2.3.3)
